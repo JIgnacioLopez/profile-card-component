@@ -52,6 +52,7 @@ body {
 }
 .card-body{
     border-bottom: hsla(0, 0%, 59%, 0.458) solid 1px;
+
 }
 
 .card-body-img {
@@ -73,19 +74,20 @@ body {
 }
 
 .card-body-text {
+    display: inline-block;
     font-weight: 400;
-    /* font-size: 1rem; */
+    font-size: 1.5rem;
     margin: 10px 0px 20px;
 }
 
 .card-footer {
     display: flex;
     justify-content: space-evenly;
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
 
-.card-footer-social h3 {
+.card-footer-social h2 {
     color: black;
     font-weight: 700;
     font-size: 1.8rem;
