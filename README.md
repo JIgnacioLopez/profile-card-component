@@ -6,8 +6,8 @@ Your challenge is to build out this profile card component and get it looking as
 
 
 ## Links
-- [Solution URL :](https://jignaciolopez.github.io/profile-card-component/)
-- [Live Site URL :](https://github.com/JIgnacioLopez/profile-card-component/tree/vanila-js-css)
+- [Solution URL](https://jignaciolopez.github.io/profile-card-component/)
+- [Live Site URL](https://github.com/JIgnacioLopez/profile-card-component/tree/vanila-js-css)
 
 ## Built with 
 
